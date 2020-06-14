@@ -2,6 +2,7 @@
 News Grid is a CSS Grid demonstration. It is fully responsive on all viewports. Utility CSS classes for easy manipulation.
 
 ## Deployed
+ https://cooperpear.github.io/News-Grid/
 
 ## Built With
 HTML5<br>
