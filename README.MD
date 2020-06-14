@@ -16,7 +16,11 @@ Add fake news content.
 Cooper Pearson
 
 ## Screenshots
-![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
+![Home](https://github.com/cooperpear/News-Grid/blob/master/screencapture-cooperpear-github-io-News-Grid-2020-06-14-12_53_53.png?raw=true "Home")
+
+![About](https://github.com/cooperpear/News-Grid/blob/master/screencapture-cooperpear-github-io-News-Grid-about-html-2020-06-14-12_54_21%20(1).png?raw=true "About")
+
+![Article](https://github.com/cooperpear/News-Grid/blob/master/screencapture-cooperpear-github-io-News-Grid-2020-06-14-12_53_53.png?raw=true "Article")
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
