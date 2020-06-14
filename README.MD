@@ -1,5 +1,5 @@
 # News Grid
-News Grid is a CSS Grid demonstration. It is fully responsive on all viewports.
+News Grid is a CSS Grid demonstration. It is fully responsive on all viewports. Utility CSS classes for easy manipulation.
 
 ## Deployed
 
@@ -8,10 +8,8 @@ HTML5<br>
 CSS3<br>
 CSS Grid
 
-##Instructions on how built start to finish (Process)
-
 ## Areas of Expansion
-Add Content
+Add fake news content.
 
 ## Authors
 Cooper Pearson
